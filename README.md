@@ -8,7 +8,7 @@
 
 - ⚡ Other places to find me: [GitLab](https://gitlab.com/irina8kats), [LearnTechWell.com](https://learntechwell.com/)
 
-- 💞️ I’m looking to collaborate on FrontEnd and JavaScript/TypeScript projects.
+- 💞️ I would be happy to collaborate on forward-thinking projects.
 
 ## Tools I Have Experience With
 
