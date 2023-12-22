@@ -29,6 +29,8 @@
 🚀 While most of my coding work is hosted on [GitLab](https://gitlab.com/irina8kats), you're welcome to explore some of the team projects I've contributed to: 
 
 - [Mira Estate](https://mira-estate.com/)
+- [Borisoglebskoe](https://xn--90aafibbpofh4abfuqf.xn--p1ai/contacts)
+- [Ecoplant](https://xn--80atdjcgy5f.xn--p1ai/)
 
 ## What I Might Brag About 
 
