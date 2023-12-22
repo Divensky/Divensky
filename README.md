@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irina Kats @Divensky. I am a software engineer at [UplineStudio](https://uplinestudio.io/). Formerly a translator/editor/writer, I have transitioned into software development. 
 
-- 🌱 I’m programming in HTML, CSS/SCSS, JavaScript/TypeScript, Vue.js and creating content on these subjects, including for MDN Web Docs. 
+- 🌱 I’m programming in HTML, CSS/SCSS, JavaScript/TypeScript, Vue.js, React.js and creating content on these subjects, including for MDN Web Docs. 
 
 - 🤔 What I want to learn next: improving my React and Vue.js skills.
 
@@ -23,6 +23,12 @@
 - Vue.js: [VueMastery](https://www.vuemastery.com/)
 - React: [Codecademy](https://www.codecademy.com/), [Kent C. Dodds](https://kentcdodds.com/)
 - Computer Science: [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+
+## Portfolio
+
+🚀 While most of my coding work is hosted on [GitLab](https://gitlab.com/irina8kats), you're welcome to explore some of the team projects I've contributed to: 
+
+- [Mira Estate](https://mira-estate.com/)
 
 ## What I Might Brag About 
 
