@@ -28,9 +28,10 @@
 
 🚀 While most of my coding work is hosted on [GitLab](https://gitlab.com/irina8kats), you're welcome to explore some of the team projects I've contributed to: 
 
-- [Mira Estate](https://mira-estate.com/)
-- [Borisoglebskoe](https://xn--90aafibbpofh4abfuqf.xn--p1ai/contacts)
-- [Ecoplant](https://xn--80atdjcgy5f.xn--p1ai/)
+- [Mira Estate](https://mira-estate.com/) - Vue, TypeScript user cabinet
+- [HDL](https://hdlautomation.ru/) - HTML, SCSS, TypeScript user cabinet
+- [Borisoglebskoe](https://xn--90aafibbpofh4abfuqf.xn--p1ai/contacts) - JS
+- [Ecoplant](https://xn--80atdjcgy5f.xn--p1ai/) - HTML, SCSS
 
 ## What I Might Brag About 
 
