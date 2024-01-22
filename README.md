@@ -30,8 +30,9 @@
 
 - [Mira Estate](https://mira-estate.com/) - Vue, TypeScript user cabinet
 - [HDL](https://hdlautomation.ru/) - HTML, SCSS, TypeScript user cabinet
-- [Borisoglebskoe](https://xn--90aafibbpofh4abfuqf.xn--p1ai/contacts) - JS
+- [Borisoglebskoe](https://xn--90aafibbpofh4abfuqf.xn--p1ai/contacts) - JS, PHP, HTML, SCSS
 - [Ecoplant](https://xn--80atdjcgy5f.xn--p1ai/) - HTML, SCSS
+- [WordPress website](https://geniusoftranslation.com/) - WordPress
 
 ## What I Might Brag About 
 
