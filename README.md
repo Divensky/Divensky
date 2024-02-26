@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Irina Kats @Divensky. I am a software engineer at [UplineStudio](https://uplinestudio.io/). Formerly a translator/editor/writer, I have transitioned into software development. 
+- 👋 Hi, I’m Irina Kats @Divensky. I am a software engineer at [UplineStudio](https://uplinestudio.io/). Formerly a translator/QA/writer, I have transitioned into software development. 
 
-- 🌱 I’m programming in HTML, CSS/SCSS, JavaScript/TypeScript, Vue.js, React.js and creating content on these subjects, including for MDN Web Docs. 
+- 🌱 I’m programming in HTML, CSS/SCSS, JavaScript/TypeScript, Vue.js, React.js and creating content on these subjects. 
 
-- 🤔 What I want to learn next: improving my React and Vue.js skills.
+- 🤔 What I am learning now: improving my React and Vue skills.
 
 - 📫 How to reach me: irina8kats@gmail.com
 
@@ -16,6 +16,7 @@
 - [BEM](https://en.bem.info/methodology/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vue.js](https://vuejs.org/)
+- [Quasar](https://quasar.dev/)
 - [Storybook](https://storybook.js.org/)
 
 ## Tools I am Learning or Improving On
@@ -32,7 +33,10 @@
 - [HDL](https://hdlautomation.ru/) - HTML, SCSS, TypeScript user cabinet
 - [Borisoglebskoe](https://xn--90aafibbpofh4abfuqf.xn--p1ai/contacts) - JS, PHP, HTML, SCSS
 - [Ecoplant](https://xn--80atdjcgy5f.xn--p1ai/) - HTML, SCSS
-- [WordPress website](https://geniusoftranslation.com/) - WordPress
+
+  ### Personal projects:
+- [Landing page](https://divensky.github.io/la-mountains/) - HTML, CSS, TypeScript 
+- [Translator website](https://geniusoftranslation.com/) - WordPress
 
 ## What I Might Brag About 
 
