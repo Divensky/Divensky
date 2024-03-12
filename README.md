@@ -37,6 +37,7 @@
   ### Personal projects:
 - [Landing page](https://divensky.github.io/la-mountains/) - HTML, CSS, TypeScript 
 - [Translator website](https://geniusoftranslation.com/) - WordPress
+- [Time Management tools](https://github.com/Divensky/time-management-tools/tree/main) - JS, Google Sheets, Google Data Studio
 
 ## What I Might Brag About 
 
