@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Irina Kats @Divensky. I am a software engineer at [UplineStudio](https://uplinestudio.io/). Formerly a translator/QA/writer, I have transitioned into software development. 
+- 👋 Hi, I’m Irina Kats @Divensky. I am a software engineer at [UplineStudio](https://uplinestudio.io/). Fascinated by the process of turning ideas into digital applications since my youth, I enjoy all aspects of programming, with a current specialization in front-end development. As Robert C. Martin eloquently put it, "Programming is an act of creation. When we write code we are creating something out of nothing. We are boldly imposing order upon chaos." I am deeply passionate about programming and enjoy sharing this joy of creation with others.
 
-- 🌱 I’m programming in HTML, CSS/SCSS, JavaScript/TypeScript, Vue.js, React.js and creating content on these subjects. 
+- 🌱 I’m currently programming in Vue.js, JavaScript/TypeScript, React.js. 
 
-- 🤔 What I am learning now: improving my React and Vue skills.
+- 🤔 What I am learning now: continuing to expand my React and Vue skills.
 
 - 📫 How to reach me: irina8kats@gmail.com
 
