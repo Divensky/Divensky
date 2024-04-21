@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Irina Kats @Divensky. I am a software engineer at [UplineStudio](https://uplinestudio.io/). Fascinated by the process of turning ideas into digital applications since my youth, I enjoy all aspects of programming, with a current specialization in front-end development. As Robert C. Martin eloquently put it, "Programming is an act of creation. When we write code we are creating something out of nothing. We are boldly imposing order upon chaos." I am deeply passionate about programming and enjoy sharing this joy of creation with others.
+- 👋 Hi, I’m Irina Kats @Divensky. I am a software engineer at [UplineStudio](https://uplinestudio.io/). 
 
 - 🌱 I’m currently programming in Vue.js, JavaScript/TypeScript, React.js. 
 
 - 🤔 What I am learning now: continuing to expand my React and Vue skills.
+
+- 💬 Favorite Quote: "Programming is an act of creation. When we write code we are creating something out of nothing. We are boldly imposing order upon chaos." - Robert C. Martin
 
 - 📫 How to reach me: irina8kats@gmail.com
 
@@ -12,10 +14,11 @@
 
 ## Tools I Have Experience With
 
-- [Sass](https://sass-lang.com/) 
-- [BEM](https://en.bem.info/methodology/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vue.js](https://vuejs.org/)
+- [React](https://react.dev/)
+- [Sass](https://sass-lang.com/) 
+- [BEM](https://en.bem.info/methodology/)
 - [Quasar](https://quasar.dev/)
 - [Storybook](https://storybook.js.org/)
 
