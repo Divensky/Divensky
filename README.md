@@ -32,15 +32,16 @@
 
 🚀 While most of my coding work is hosted on [GitLab](https://gitlab.com/irina8kats), you're welcome to explore some of the team projects I've contributed to: 
 
+- [iOT - Ideas of Tomorrow](https://iotsy.ru/) - Vue, TypeScript, SCSS online store and user cabinet
 - [Mira Estate](https://mira-estate.com/) - Vue, TypeScript user cabinet
-- [HDL](https://hdlautomation.ru/) - HTML, SCSS, TypeScript user cabinet
 - [Borisoglebskoe](https://xn--90aafibbpofh4abfuqf.xn--p1ai/contacts) - JS, PHP, HTML, SCSS
 - [Ecoplant](https://xn--80atdjcgy5f.xn--p1ai/) - HTML, SCSS
 
   ### Personal projects:
-- [Landing page](https://divensky.github.io/la-mountains/) - HTML, CSS, TypeScript 
+- [Landing page](https://divensky.github.io/la-mountains/) - TypeScript, HTML, SCSS
 - [Translator website](https://geniusoftranslation.com/) - WordPress
-- [Time Management tools](https://github.com/Divensky/time-management-tools/tree/main) - JS, Google Sheets, Google Data Studio
+- [Chrome extension](https://github.com/Divensky/chrome-extension) - JavaScript, HTML, SCSS
+- [Time Management tools](https://github.com/Divensky/time-management-tools/tree/main) - JavaScript, Google Sheets, Google Data Studio
 
 ## What I Might Brag About 
 
